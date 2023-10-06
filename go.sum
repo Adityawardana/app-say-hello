@@ -2,3 +2,5 @@ github.com/Adityawardana/go-say-hello v1.0.0 h1:4f4dgUaR5aOffZpRxrKG9+YyRCVJiGg3
 github.com/Adityawardana/go-say-hello v1.0.0/go.mod h1:9lKKsaJYPiRRpe5G5onfYv3Dj0QUuSllbTf01YfyqiQ=
 github.com/Adityawardana/go-say-hello v1.1.0 h1:hwbXp6SYoArA7Ta9yJ2h5BX0WGPvdP80jyMJ7F6vw0g=
 github.com/Adityawardana/go-say-hello v1.1.0/go.mod h1:9lKKsaJYPiRRpe5G5onfYv3Dj0QUuSllbTf01YfyqiQ=
+github.com/Adityawardana/go-say-hello/v2 v2.0.0 h1:FP8mJ0dfHhm4O/9wZO5xvowFr29saH9sarOP+M6BkoU=
+github.com/Adityawardana/go-say-hello/v2 v2.0.0/go.mod h1:FeYcQAyslwumjuCMmHJLkaJEOs+JSV6oLPfEkIh4bz0=
